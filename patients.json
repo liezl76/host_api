@@ -1,25 +1,46 @@
 {
   "patients": [
     {
-      "id": 1,
-      "name": "Donna Doe",
+      "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+      "name": "John Doe",
       "age": 35,
-      "gender": "Female",
-      "medical_conditions": ["Hypertension", "Type 2 Diabetes"]
-    },
-    {
-      "id": 2,
-      "name": "Jack dela Cruz",
-      "age": 45,
       "gender": "Male",
-      "medical_conditions": ["Asthma"]
+      "medical_conditions": ["Hypertension", "Type 2 Diabetes"],
+      "appointments": [
+        {
+          "date": "2023-01-01",
+          "time": "10:00 AM",
+          "purpose": "General Checkup"
+        }
+      ]
     },
     {
-      "id": 3,
-      "name": "Juan Cepeda",
+      "id": "4e4659d4-4e3d-4f61-8455-65b2b34f8f18",
+      "name": "Jane Smith",
+      "age": 45,
+      "gender": "Female",
+      "medical_conditions": ["Asthma"],
+      "appointments": [
+        {
+          "date": "2023-02-15",
+          "time": "02:30 PM",
+          "purpose": "Follow-up"
+        }
+      ]
+    },
+    {
+      "id": "ee7e4d02-32f1-4acb-b718-1d4d516decf4",
+      "name": "Bob Johnson",
       "age": 28,
       "gender": "Male",
-      "medical_conditions": ["Allergies"]
+      "medical_conditions": ["Allergies"],
+      "appointments": [
+        {
+          "date": "2023-03-20",
+          "time": "09:15 AM",
+          "purpose": "Consultation"
+        }
+      ]
     }
   ]
 }
