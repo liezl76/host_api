@@ -1,0 +1,25 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "medical_conditions": ["Hypertension", "Type 2 Diabetes"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 45,
+      "gender": "Female",
+      "medical_conditions": ["Asthma"]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "age": 28,
+      "gender": "Male",
+      "medical_conditions": ["Allergies"]
+    }
+  ]
+}
