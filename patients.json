@@ -1,7 +1,7 @@
 {
   "patients": [
     {
-      "id": "9b1deb4d-3b7d-4bad-9bdd-2b0d7b3dcb6d",
+      "id": "2023001",
       "name": "John Pama",
       "age": 35,
       "gender": "Male",
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "id": "4e4659d4-4e3d-4f61-8455-65b2b34f8f18",
+      "id": "2023002",
       "name": "Jane Obligado",
       "age": 45,
       "gender": "Female",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "id": "ee7e4d02-32f1-4acb-b718-1d4d516decf4",
+      "id": "2023003",
       "name": "Luke Salvacion",
       "age": 28,
       "gender": "Male",
